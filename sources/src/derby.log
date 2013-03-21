@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu May 31 14:03:26 CEST 2012:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258) : instance a816c00e-0137-a2c7-695b-0000045bd298 
+dans le répertoire de base de données /Users/christophedebatz/Documents/Etudes/EFREI/S6/JAVA 1/SchoolManager/derbyDB  avec le chargeur de classe sun.misc.Launcher$AppClassLoader@5ab8df17
+
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-11M3527
+user.dir=/Users/christophedebatz/Documents/Etudes/EFREI/S6/JAVA 1/SchoolManager
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath=''

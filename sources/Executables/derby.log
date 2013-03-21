@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Mar 05 22:54:23 CET 2013:
+Amor?age de Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258) : instance a816c00e-013d-3c8c-5881-000003aa0e38 
+dans le r?pertoire de base de donn?es /Applications/MAMP/htdocs/debatz/labs/work/multi/schoolmanager/Executables/derbyDB  avec le chargeur de classe java.net.URLClassLoader@2ced55ec
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_10-b18
+user.dir=/Applications/MAMP/htdocs/debatz/labs/work/multi/schoolmanager/Executables
+derby.system.home=null
+Chargeur de classe de la base de donn?es d?marr? - derby.database.classpath=''
